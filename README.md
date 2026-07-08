@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0058-length-of-last-word) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
