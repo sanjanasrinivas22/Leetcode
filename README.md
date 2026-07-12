@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -44,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0016-3sum-closest) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
