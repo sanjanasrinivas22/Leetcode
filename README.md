@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
