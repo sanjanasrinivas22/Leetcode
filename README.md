@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0189-rotate-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanjanasrinivas22/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0189-rotate-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanjanasrinivas22/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0189-rotate-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanjanasrinivas22/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0016-3sum-closest) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanjanasrinivas22/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -88,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0067-add-binary) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanjanasrinivas22/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanjanasrinivas22/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
