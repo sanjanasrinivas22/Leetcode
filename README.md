@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0189-rotate-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanjanasrinivas22/Leetcode/tree/master/0052-n-queens-ii) |
 ## Bit Manipulation
 |  |
